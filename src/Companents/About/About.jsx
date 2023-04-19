@@ -50,8 +50,9 @@ export const AboutFunc = () => {
                                 <Card.Img variant="top" src="https://cdn1.img.sputniknews.uz/img/07e5/0a/13/20963736_320:0:1600:1280_1920x0_80_0_0_a56abdbe1daa06b4f9b03e5961ba807e.jpg" />
                                 <Card.Body>
                                     <Card.Title>burger</Card.Title>
+                                    <h3 className="qalin"><b>12000</b> so'm</h3>
                                     <div className="df1" style={{ display: "flex", justifyContent: 'space-between' }}>
-                                        <Button className='btn1' onClick={() => BtnClick(12000)} variant="primary">12000 so'm</Button>
+                                        <Button className='btn1' onClick={() => BtnClick(12000)} variant="primary">добавить</Button>
                                         <div className="dfem">
                                             <span className="umumir">{their1}</span>
                                             <Button className='btn2' onClick={() => BtnClick(12000)} variant="primary">+</Button>
@@ -65,8 +66,9 @@ export const AboutFunc = () => {
                                 <Card.Img variant="top" src="https://cdn1.img.sputniknews.uz/img/07e5/0a/13/20963736_320:0:1600:1280_1920x0_80_0_0_a56abdbe1daa06b4f9b03e5961ba807e.jpg" />
                                 <Card.Body>
                                     <Card.Title>cheese burger</Card.Title>
+                                    <h3 className="qalin"><b>14000</b> so'm</h3>
                                     <div className="df2" style={{ display: "flex", justifyContent: 'space-between' }}>
-                                        <Button className='btn5' onClick={() => BtnClick2(14000)} variant="primary">14000 so'm</Button>
+                                        <Button className='btn5' onClick={() => BtnClick2(14000)} variant="primary">добавить</Button>
                                         <div className="dfem">
                                             <span className="umumir">{their2}</span>
                                             <Button className='btn2' onClick={() => BtnClick2(14000)} variant="primary">+</Button>
@@ -80,8 +82,9 @@ export const AboutFunc = () => {
                                 <Card.Img variant="top" src="https://cdn1.img.sputniknews.uz/img/07e5/0a/13/20963736_320:0:1600:1280_1920x0_80_0_0_a56abdbe1daa06b4f9b03e5961ba807e.jpg" />
                                 <Card.Body>
                                     <Card.Title>big burger</Card.Title>
+                                    <h3 className="qalin"><b>20000</b> so'm</h3>
                                     <div className="df3" style={{ display: "flex", justifyContent: 'space-between' }}>
-                                        <Button className='btn3' onClick={() => BtnClick3(20000)} variant="primary">20000 so'm</Button>
+                                        <Button className='btn3' onClick={() => BtnClick3(20000)} variant="primary">добавить</Button>
                                         <div className="dfem">
                                             <span className="umumir">{their3}</span>
                                             <Button className='btn2' onClick={() => BtnClick3(20000)} variant="primary">+</Button>
@@ -95,8 +98,9 @@ export const AboutFunc = () => {
                                 <Card.Img variant="top" src="https://cdn1.img.sputniknews.uz/img/07e5/0a/13/20963736_320:0:1600:1280_1920x0_80_0_0_a56abdbe1daa06b4f9b03e5961ba807e.jpg" />
                                 <Card.Body>
                                     <Card.Title>big cheese burger</Card.Title>
+                                    <h3 className="qalin"><b>24000</b> so'm</h3>
                                     <div className="df4" style={{ display: "flex", justifyContent: 'space-between' }}>
-                                        <Button className='btn4' onClick={() => BtnClick4(23000)} variant="primary">23000 so'm</Button>
+                                        <Button className='btn4' onClick={() => BtnClick4(23000)} variant="primary">добавить</Button>
                                         <div className="dfem">
                                             <span className="umumir">{their4}</span>
                                             <Button className='btn2' onClick={() => BtnClick4(23000)} variant="primary">+</Button>
